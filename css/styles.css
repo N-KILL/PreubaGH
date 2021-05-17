@@ -1,0 +1,60 @@
+.bloque {
+    margin-top: 100px;
+    text-align: center;
+    display: inline-block;
+    width: 350px;
+    margin-left: 200px;
+}
+
+.titProd {
+    font-family: arial;
+    font-size: 20px;
+}
+
+.descProd {
+    margin-left: 0px;
+    margin-top: -15px;
+    font-family: arial;
+    font-size: 20px;
+}
+
+.productos {
+    padding-bottom: 100px;
+    border-bottom: 5px solid #e1e1e1;
+}
+
+.tittle{
+    margin-top: 100px;
+    display: block;
+    text-align: center;
+    font-family: arial;
+    font-size: 20px;
+}
+
+.menciones {
+    text-align: center;
+}
+
+.bloqueM {
+    text-align: center;
+    border: 1px solid #e1e1e1;
+    margin-left: 5px;
+    display: inline-block;
+    width: 239px;
+}
+
+.nombre {
+    margin-top: -15px;
+    margin-left: 10px;
+    font-family: arial;
+    font-size: 20px;
+    text-align: left ;
+}
+
+.info{
+    margin-left: 10px;
+    margin-top: -15px;
+    font-family: arial;
+    font-size: 16px;
+    text-align: left ;
+}
